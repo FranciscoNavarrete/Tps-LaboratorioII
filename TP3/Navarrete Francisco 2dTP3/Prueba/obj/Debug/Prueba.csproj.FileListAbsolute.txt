@@ -1,0 +1,48 @@
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Prueba.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Prueba.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\obj\Debug\Prueba.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Prueba\obj\Debug\Prueba.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.exe
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Prueba.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.exe
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Prueba\obj\Debug\Prueba.pdb

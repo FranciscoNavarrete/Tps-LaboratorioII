@@ -1,0 +1,24 @@
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\bin\Debug\Entidades.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\obj\Debug\Entidades.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\Tp1\Entidades\obj\Debug\Entidades.pdb

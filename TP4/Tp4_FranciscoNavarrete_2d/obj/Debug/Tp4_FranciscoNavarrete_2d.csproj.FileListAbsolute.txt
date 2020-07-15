@@ -1,0 +1,13 @@
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.FrmPrincipal.resources
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.Properties.Resources.resources
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.csproj.GenerateResource.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\bin\Debug\Tp4_FranciscoNavarrete_2d.exe.config
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\bin\Debug\Tp4_FranciscoNavarrete_2d.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\bin\Debug\Tp4_FranciscoNavarrete_2d.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\bin\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\bin\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Tp4_FranciscoNavarrete_2d\obj\Debug\Tp4_FranciscoNavarrete_2d.pdb

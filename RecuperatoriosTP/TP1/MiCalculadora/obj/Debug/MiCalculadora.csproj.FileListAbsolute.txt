@@ -1,0 +1,52 @@
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00 PyL 2 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.FrmCalculadora.resources
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.FrmCalculadora.resources
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\walte\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb

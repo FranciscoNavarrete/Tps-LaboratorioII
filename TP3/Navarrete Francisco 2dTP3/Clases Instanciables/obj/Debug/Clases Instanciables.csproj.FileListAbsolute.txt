@@ -1,0 +1,65 @@
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\compa\Desktop\UTN\00PyL\tp_laboratorio_2\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Arias Mariano 2D TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\walte\Desktop\Trabajos Practicos Laboratorio II\TP3\Navarrete Francisco 2dTP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

@@ -1,0 +1,12 @@
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\compa\Desktop\UTN\00PyL\TP4\TP4_AriasMariano_2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\walte\Desktop\tp_laboratorio_2-master\TP4\Entidades\obj\Debug\Entidades.pdb
